@@ -72,8 +72,7 @@ VirusTC advocates for the cessation of invasive tumor surgeries in favor of cont
 
 3\.  **Environmental Restoration:** This medical approach is intrinsically linked to planetary health. The funding derived from defining and treating the modern tumor is directly allocated to the **cleaning and alkalinization of our Oceans and Lakes**.
 
-* * * * *\
-Here are the references included in your uploaded documents, formatted in APA 7 style, including the additional citation you requested.
+* * * * *
 
 ### **References**
 
