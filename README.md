@@ -1,4 +1,4 @@
-TUMOR: Defined As Virus Vesicle (Clinical Protocol & Pathology Guide)\
+TUMOR: Defined As Virus Vesicle (Clinical Protocol & Pathology Guide)
 =====================================================================
 
 ### **Repository Overview**
