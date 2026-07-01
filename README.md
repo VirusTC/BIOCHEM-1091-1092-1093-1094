@@ -13,7 +13,7 @@ This repository serves as a critical bridge between **clinical oncology** and **
 
 Our mission is to educate the pathology and oncology communities on the necessity of integrating oceanographic textbooks into medical practice. By identifying the microscopic structures of these "viruses," we aim to replace invasive surgeries with controlled medical expulsion protocols.
 
-![Figure 1: In image G, the leg sections of the bundled-up pycnogonid can be seen clearly.](https://github.com/USAMRICD-UW-Fred-Hutch-Cancer-Research/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/images/1602552-f1.jpeg?raw=true)
+![Figure 1: In image G, the leg sections of the bundled-up pycnogonid can be seen clearly.](https://github.com/FADM-DCMN-CORY-A-HOFSTAD-USN/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/images/1602552-f1.jpeg?raw=true)
 Figure 1: In image G, the leg sections of the bundled-up pycnogonid can be seen clearly.
 * * * * *
 
@@ -33,7 +33,7 @@ Current research by VirusTC redefines the "tumor" not merely as uncontrolled cel
 
 -   **Dr. Hofstad's Microscopy:** Utilizing high-resolution microscopy, this work catalogues the specific shapes and developmental stages of these organisms to train future pathologists in identifying "virus vesicles" in human tissue.
 
-![Figure 2: In images A and D, the ovigar is visible. In images E-G, the legs are visible.](https://github.com/USAMRICD-UW-Fred-Hutch-Cancer-Research/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/images/1602552-f2.jpeg?raw=true)
+![Figure 2: In images A and D, the ovigar is visible. In images E-G, the legs are visible.](https://github.com/FADM-DCMN-CORY-A-HOFSTAD-USN/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/images/1602552-f2.jpeg?raw=true)
 Figure 2: In images A and D, the ovigar is visible. In images E-G, the legs are visible.
 * * * * *
 
@@ -49,7 +49,7 @@ This protocol issues a severe warning regarding the handling of these vesicles d
 
     -   **Infection Risk:** Larvae target body openings and joints. Strict adherence to **alkaline skin preparation** (Menthol/Neem/Oregano formulas) and **Type 4 HAZMAT PPE** is required to prevent infection of the surgical team.
 
-![Figure 3: Tumors are aggressive and hostile.](https://github.com/USAMRICD-UW-Fred-Hutch-Cancer-Research/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/images/1602552-f3.jpeg?raw=true)
+![Figure 3: Tumors are aggressive and hostile.](https://github.com/FADM-DCMN-CORY-A-HOFSTAD-USN/TUMOR-Defined-As-Virus-Vesicle-WITH-IMAGES-VIDEO/blob/main/images/1602552-f3.jpeg?raw=true)
 Figure 3: Tumors are aggressive and hostile.
 
 ![Figure 4: The modern oncology industry must stop relying on drawings and stick figures to educate future doctors.](https://visualsonline.cancer.gov/retrieve.cfm?imageid=12496&dpi=300&fileformat=jpg)
