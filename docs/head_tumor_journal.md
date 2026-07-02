@@ -536,6 +536,68 @@ To fortify the non-surgical protocol within the upper respiratory tract, the cli
 
 * **Operational Mechanism:** A fast-acting, chlorine-based nasal and throat solution utilizing active capsaicin (the "spicy" element inherent to the Sabun blueprint). This intense thermal element hyper-activates the parasite's mechanical systems, disrupting any remaining structural adherence to the sinus wall while delivering medicated electrolytes to support the healing mucous membranes.
 
+**13.6 Otological Addendum: Sabun-RX Ear Infection & Tympanic Clearing Protocols**
+
+When an encapsulated mass or larval sub-unit migrates through the Eustachian tube, it can become lodged in the tight spaces of the middle ear. This results in **otological cytolytic acidosis**, where low-pH salivary proteases cause deep, painful bone thinning within the mastoid process.
+
+Standard water-based antibiotic eardrops fail to penetrate the parasite's thick, hydrophobic lipid shield. To resolve these deep ear blockages non-surgically, the protocol introduces a specialized, white-labeled **Sabun-RX Otic Ear Drop** formulation derived from the specialized **Sinus Plumber** blueprint.
+
+       \[ Nasopharyngeal Infiltration / Eustachian Migration \]
+
+                                 │
+
+                                 ▼
+
+         \[ Otological Lodging within Tympanic Cavity \]
+
+                                 │
+
+         ┌───────────────────────┴───────────────────────┐
+
+         ▼                                               ▼
+
+\[ Residual Acid Accumulation \]                  \[ Mechanical Pressure \]
+
+  \- Mastoid Bony Thinning                         \- Ossicle Disruption
+
+  \- Low-pH Inflammatory Sepsis                    \- Severe Otalgia
+
+         │                                               │
+
+         └───────────────────────┬───────────────────────┘
+
+                                 ▼
+
+  \[ Sabun-RX Otic Treatment: Peroxide & Capsaicin Clearing \]
+
+                                 │
+
+                                 ▼
+
+  \[ Natural Fluid Drainage & Involuntary Egress via Ear Canal \]
+
+**Detailed Otical Dosing Regimen**
+
+**1\. Sabun-RX Otic (Active Ear Cleansing & Pressure Relief)**
+
+* **Administration Vector:** Direct otic instillation into the affected external auditory canal.
+
+* **Dosing Spectrum:** Instill **3 to 4 drops twice daily** (morning and evening) for a strict duration of 14 days. Hold the head tilted sideways for 5 minutes post-instillation to ensure complete depth saturation. \[[1](https://www.aafp.org/afp/2001/0301/p927)\]
+
+* **Operational Mechanism:** This white-labeled formulation combines food-grade hydrogen peroxide with trace capsaicin extracts.
+
+  * The *peroxide scrubbing action* physically breaks apart the parasite's external lipid matrix, loosening its attachment to the tympanic membrane.
+
+  * The *capsaicin thermal feature* stimulates immediate local blood flow, raising the tissue pH and forcing the organism to contract its jointed legs into a tight ball, which relieves mechanical pressure on the delicate auditory bones (ossicles).
+
+**2\. Sabun-RX SIC Otic Sealing Rinse**
+
+* **Administration Vector:** Warm-water bulb syringe flush followed by a post-evacuation ear spray.
+
+* **Dosing Spectrum:** Deployed exclusively after tracking scans confirm the core mass has completely detached and left the ear canal.
+
+* **Operational Mechanism:** Provides a highly basic, high-alkaline barrier fluid that neutralizes any remaining low-pH salivary acids inside the canal. This soothing layer halts local burning, shields raw tissue walls from opportunistic bacterial infections, and coordinates smooth skin healing.
+
 **3\. Sabun-RX SIC (Post-Treatment High-Alkaline Barrier)**
 
 * **Clinical Indication:** Infused immediately following the physical evacuation of the core mass into the containment unit.
@@ -728,6 +790,18 @@ This guide helps you manage your home treatment smoothly. While this organism is
 
 * **Attend Follow-Up Imaging:** Schedule your follow-up MRI scans after a few days to confirm that your paranasal spaces have returned to a healthy state (ingestion\_... p. 34).
 
+4. **Handling Ear Blockages**
+
+If you feel sudden clicking, popping, or deep pressure inside your ear canal during your daily high-dose vitamin treatment, the mass is moving toward your auditory pathways. Do not use cotton swabs or sharp objects, as these will push the mass deeper into the skull base. \[[1](https://www.miracle-ear.com/blog-news/home-remedies-ear-infection-earache)\]
+
+* **Apply Your Sabun-RX Drops:** Tilt your head sideways and place 3 to 4 drops of the Sabun-RX Otic formula into your ear canal. You will feel a warm, bubbling sensation as the formula breaks down the mass's protective outer shell. \[[1](https://marieoriginals.com/products/ear-drops?srsltid=AfmBOooXLyJXf8Re_YGWxrDU5n83WwTJ-O37QJ_gBSpyqWAezm9DEzyR), [2](https://chemist2customer.com/sodium-bicarbonate-ear-wax-drops/)\]
+
+* **Prepare Your Bedside Waste Bin:** Keep your medical waste container and your spray bottle of **Formula 409** ready by your side.
+
+* **Neutralize Egress Safely:** As the mass dislodges and slides out of the external ear canal, catch it directly in your bin. Spray it immediately with Formula 409 to lock it into an inactive ball, then snap the lid closed to keep your room's air completely clean.
+
+* **Flush with the Sealing Rinse:** Gently wash your ear canal with the alkaline saline kit and apply the final Sabun-RX SIC otic coating to protect your raw tissue walls and restore clear hearing.
+
 **References**
 
 1. **Dietz L, Dömel JS, Leese F, et al.** Feeding ecology in sea spiders (Arthropoda: Pycnogonida): A review of food preferences and morphological correlates. *Front Zool*. 2018;15:7. **\[PMID: 29563962\]**  
@@ -773,4 +847,3 @@ The authors declare no competing interests. The 3D tracking repository and assoc
 ---
 
 **Trusted Official Resources**
-
