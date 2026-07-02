@@ -900,6 +900,48 @@ If you feel sudden clicking, popping, or deep pressure inside your ear canal dur
 
 * **Flush with the Sealing Rinse:** Gently wash your ear canal with the alkaline saline kit and apply the final Sabun-RX SIC otic coating to protect your raw tissue walls and restore clear hearing.
 
+**Patient Care Guide Update: Managing Your Post-Surgical Recovery**
+
+Following your non-invasive endoscopic fiber optic extraction, your internal sinus pathways will be protected by a temporary, soothing ointment spacer. Follow this daily medication and hydration schedule exactly to support your cells as they rebuild your nasal linings and close the vacated tissue pocket.
+
+\+--------------------------------------------------------------------------+
+
+|                  1\. DAILY TISSUE-REBUILDING MEDICATIONS                  |
+
+|   Take your baseline support scripts exactly as directed with food       |
+
+|   to keep your recovery pathways steady and clear.                       |
+
+\+--------------------------------------------------------------------------+
+
+                                     │
+
+                                     ▼
+
+\+--------------------------------------------------------------------------+
+
+|                  2\. INTENSIVE DISTILLED HYDRATION                        |
+
+|   Drink exactly 1 gallon of distilled water daily to help your kidneys   |
+
+|   flush out broken-down cellular residues cleanly.                       |
+
+\+--------------------------------------------------------------------------+
+
+**Daily Post-Op Medication Regimen**
+
+* **AlnayaSN:** Take **1,000 mg daily** to maintain active viral load rejection during the initial healing phase.
+
+* **TsinKX:** Take **300 mg daily with food** to provide essential mineral building blocks for tissue reconstruction.
+
+* **HaldEX:** Take **1,950 mg daily** to stabilize nerve pathways and manage localized tissue responses smoothly.
+
+* **MusKT:** Take **1,000 mg daily** to support adjacent facial muscle recovery.
+
+* **KureaSH (Naked Brand Creatine):** Take **5,000 mg daily** dissolved in distilled water to preserve your cells' energy reserves during active healing.
+
+* **Distilled Water Intake:** Drink exactly **1 gallon of distilled water every day**. This continuous hydration helps your system flush out remaining chemical salts and cellular debris, keeping your internal pathways flat, clean, and perfectly clear.
+
 **References**
 
 1. **Dietz L, Dömel JS, Leese F, et al.** Feeding ecology in sea spiders (Arthropoda: Pycnogonida): A review of food preferences and morphological correlates. *Front Zool*. 2018;15:7. **\[PMID: 29563962\]**  
