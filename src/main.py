@@ -48,11 +48,29 @@ def generate_mock_datasets(dimensions: tuple) -> tuple:
     
     return xray_projection, mri_volume, vesicle_mask
 
+# Insert this directly into the main() block of your main.py file:
+
+from config_loader import ConfigurationLoader
+
 def main():
     print("==================================================================")
     print("      METASTASIS-TRACKER-AI: MULTI-MODAL PIPELINE INITIALIZATION  ")
     print("==================================================================")
     
+    # Initialize and deploy the configuration loader framework
+    config = ConfigurationLoader("config_matrices.json")
+    if not config.load_and_validate_matrices():
+        print("[CRITICAL] Baseline hardware alignment parameters absent. Halting execution vector.")
+        return
+        
+    # Extract live calibration matrices directly from JSON array spaces
+    xray_trans, xray_scale, hu_offset = config.extract_carestream_affine_vectors()
+    mri_phase, adc_scale, spair_settings = config.extract_ge_mri_profiles()
+    global_bounds = config.get_global_pipeline_constraints()
+    
+    grid_shape = (64, 64, 64)
+    # Datasets are ingested and mapped below matching config constraints...
+
     # 1. Define volume spatial dimensions [Voxel Grid Grid Resolution]
     grid_shape = (64, 64, 64)  
     
