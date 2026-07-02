@@ -12,6 +12,26 @@ import os
 import sys
 import numpy as np
 
+
+from config_loader import ConfigurationLoader
+from core_registration_engine import MultiModalRegistrationEngine
+from cuda_driver import CUDAVoxelAllocator
+from dicom_series_aggregator import DICOMSeriesAggregator
+from anisotropic_filter import AnisotropicFilterEngine
+from ai_diagnostic_app import AIDiagnosticSupportApp
+from skeletal_dynamics import MultiPlanarSkeletalDynamics
+
+def setup_runtime_directories() -> str:
+    """Sets up a mock dataset folder to run checks if raw inputs are bare."""
+    mock_dir = "dicom_input_series"
+    if not os.path.exists(mock_dir):
+        os.makedirs(mock_dir, exist_ok=True)
+        from tests.test_series_aggregator import write_mock_slice
+        write_mock_slice(mock_dir, "slice_z30.dcm", z_position=3.0, pixel_value=150)
+        write_mock_slice(mock_dir, "slice_z00.dcm", z_position=0.0, pixel_value=120)
+        write_mock_slice(mock_dir, "slice_z15.dcm", z_position=1.5, pixel_value=135)
+    return mock_dir
+
 # Import the core modules built in the previous steps
 # Ensure these files are located in the same directory or within your PYTHONPATH
 try:
@@ -149,6 +169,27 @@ if device_ready:
     
     print("[INFO] Processing spatial grid transformations over aggregated series...")
     warped_volume = engine.execute_volume_warp()
+
+    filter_engine = AnisotropicFilterEngine(volume_shape)
+    filtered_volume = filter_engine.execute_filter(warped_volume, iterations=2)
+    
+    allocator = CUDAVoxelAllocator(volume_shape)
+    if allocator.allocate_device_buffers(): 
+        allocator.transfer_to_device(filtered_volume)
+        
+    print("[INFO] Deploying Section 10 Multi-Planar Fluid Transit Equations...")
+    skeletal_tracker = MultiPlanarSkeletalDynamics(filtered_volume, voxel_spacing_mm=(0.5, 0.5, 1.0))
+    mock_baseline = np.full_like(filtered_volume, 180.0)
+    skeletal_metrics = skeletal_tracker.evaluate_realtime_density_shifts(mock_baseline)
+    
+    validation_mask = filtered_volume > 140.0
+    metrics = engine.calculate_attenuation_vectors(validation_mask)
+    
+    ai_app = AIDiagnosticSupportApp(docs_dir="docs", reports_dir="reports")
+    ai_app.ingest_documentation_vault()
+    evaluation_profile = ai_app.process_and_evaluate_metrics(metrics)
+    generated_report = ai_app.export_diagnosis_support_file(evaluation_profile)
+    
 
     # 5. Lock data array structures into parallel GPU device memory layout
     print("[INFO] Setting up PyCUDA parallel acceleration context blocks...")
