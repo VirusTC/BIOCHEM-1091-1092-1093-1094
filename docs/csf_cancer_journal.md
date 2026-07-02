@@ -1,7 +1,5 @@
 **Volume IV: The Urogenital Lipid-Capsule Scaffolding, Prostatic/Skene's Gland Homeostasis, and Central Nervous System Hydrodynamic Interconnect**
 
-**Pre-Chapter 1: Advanced Pelvic and Lipid-Conduit Infection Control, Surgery, and Personnel PPE Protocols**
-
 **Title:** Theoretical Pathophysiology of Accidental *Pycnogonida* Infestation inside Pelvic Glandular Frameworks: A Cross-Disciplinary Analysis of Prostatic and Skene's Gland Stromal Encapsulation, Cerebrospinal Fluid Hydrodynamic Interconnect, and Non-Invasive Voxel Tracking \[site:edu, site:mil\]
 
 **Short Title:** Tracking Pelvic Lipid-Capsule Vector Infestations \[site:gov\]
@@ -36,6 +34,9 @@ Theoretical radiological modeling demonstrates that an encapsulated pelvic *Pycn
 Although human infestation within urogenital tissue compartments remains mathematically rare, the rapid expansion of deep-sea operations and unmonitored commercial mariculture necessitates immediate preventative parameters \[site:gov, site:mil\]. This study provides the first standardized radiologic, laboratory, and non-surgical naturopathic protocols to successfully trace, neutralize, and safely isolate these pelvic network vectors without risking biopsy-induced capsule rupture \[site:gov\]. Providing these explicit blueprints arms military and civilian medical teams with the tools required to overcome severe diagnostic blindspots and protect global lipid-capsule homeostasis before unconventional zoonotic challenges emerge \[site:gov, site:mil\].
 
 **Keywords:** *Pycnogonida*, Skene's Glands, Prostatic Plexus, Cerebrospinal Fluid Matrix, Lipidos Catheter-Pump, Duty to Warn. \[site:gov, site:edu\]
+
+
+**Pre-Chapter 1: Advanced Pelvic and Lipid-Conduit Infection Control, Surgery, and Personnel PPE Protocols**
 
 **0.1 Pelvic Deep-Field Surgical Theater Hazards and Engineering Controls**
 
