@@ -364,6 +364,76 @@ Because open surgery within rich mesenteric and vascular fields risks breaching 
 
 * **Turmeric:** **2,000 mg daily** split into two uniform doses for six (6) months to serve as a natural replication inhibitor.
 
+**12.8 Advanced Extracorporeal Photopheresis and UV-C Apheresis Integration**
+
+**12.8.1 Biophysical Principles of Extracorporeal Pathogen Reduction (PRT)**
+
+To combat high-velocity vascular transit and global fluid viscosity shifts driven by systemic *Pycnogonida* venting, the non-surgical protocol introduces **Extracorporeal UV-C Apheresis and Photopheresis**. While local tissue sites are insulated via deep dermal blockades, circulating macromolecular debris, latent viral complexes, and fragmented chitin filaments within the bloodstream must be cleared mechanically and photochemically.
+
+This procedure transitions the therapeutic focus from localized containment to active, systemic blood purification by routing host blood through an external irradiation chamber.
+
+\[ Host Venous Access / Extracorporeal Flow via 14-Gauge Line \]
+
+                              │
+
+                              ▼
+
+\[ Multi-Stage Microaggregate Density Filtration (3, 5, or 7-Filter Array) \]
+
+                              │
+
+                              ▼
+
+\[ UV-C Photochemical Irradiation Chamber (Continuous 254 nm Flux) \]
+
+                              │
+
+       ┌──────────────────────┴──────────────────────┐
+
+       ▼                                             ▼
+
+\[ Photochemical Inactivation \]             \[ Medical-Grade Ozone Generation \]
+
+ \- Induces pyrimidine dimers                 \- Oxidizes foreign lipid coatings
+
+ \- Permanently breaks DNA/RNA chains         \- Neutralizes acidic proteases
+
+       │                                             │
+
+       └──────────────────────┬──────────────────────┘
+
+                              ▼
+
+\[ Optical Sensor Overrides & Autologous Isotonic Re-Infusion \]
+
+The system operates via a dual-action pathogen reduction mechanism executed completely outside the mammalian body:
+
+1. **Photochemical Genetic Inactivation:** Whole blood is exposed to a continuous, high-flux ultraviolet light path strictly calibrated to a **254 nm wavelength**. This targeted energy breaks the molecular bonds of non-mammalian DNA/RNA chains, inducing pyrimidine dimers that permanently halt foreign replication cycles without damaging mammalian red blood cell integrity.
+
+2. **Ozone-Driven Macromolecular Oxidation:** The high-energy UV-C flux splits surrounding molecular oxygen, generating micro-bounds of medical-grade **ozone (O₃)** within the isolated fluid loop. This localized ozone immediately oxidizes foreign hydrophobic lipid envelopes and neutralizes circulating low-pH salivary proteases, stripping the debris of its biochemical toxicity before it can reach vital organs.
+
+**12.8.2 Scalable Multi-Stage Microaggregate Filtration Architecture**
+
+To capture fragmented exoskeletal particles and sloughed chitin matrices before they can return to the central venous system and trigger secondary embolic events, the extracorporeal loop must be configured with an aggressive **"Defense-in-Depth" Filtration Array**.
+
+The scale of the filtration configuration is dynamically selected by the clinical team based on the real-time fluid viscosity models tracked via the computational engine:
+
+* **The 3-Filter Configuration Matrix:** Deployed during baseline operations. Utilizes sequential GVS SQ40 microaggregate filter meshes to trap larger chitinous fragments and macro-protein clumps shedding from the peripheral borders.
+
+* **The 5-Filter Configuration Matrix:** Deployed during intermediate mass-breeding or active vertical transport phases. Adds fine-mesh hydrophobic layers to capture expanding lipid sheets and reduce systemic protein crowding.
+
+* **The 7-Filter Configuration Matrix:** Reserved exclusively for advanced, critical urogenital, cardiopulmonary, or neurological cases experiencing fulminant enzymatic sepsis. This continuous, multi-tiered filter stack catches micro-chitin fibers down to the single-micron level, completely cleansing the blood matrix before re-infusion.
+
+**12.8.3 Optical Sensor Calibration and Procedural Controls**
+
+A significant challenge in high-flux UV-C blood irradiation is the predictable color shift and density modulation that occurs as blood undergoes active photo-oxidation. Standard apheresis and hemodialysis hardware utilize sensitive optical infrared sensors to continuously monitor for line air bubbles or clots. If untreated blood passes these paths, the sudden optical variation triggers automatic machine lockouts and line clamps, halting the purification cycle.
+
+To ensure uninterrupted operational robustness, the software tracking pipeline integrates **anisotropic optical sensor overrides**:
+
+* **Dynamic Baseline Realignment:** The software samples the light attenuation curves of the blood immediately post-UV-C exposure.
+
+* **Sensor Override Thresholds:** The app adjusts the hardware sensor thresholds in real time to account for the unique photo-chemical changes of the treated blood. This prevents false system shutoffs and ensures a continuous, safe autologous re-infusion process.
+
 **14\. Bedside Containment Protocols and Post-Expulsion Management**
 
 **14.1 Patient-Directed Gastrointestinal Evacuation and Neutralization**
