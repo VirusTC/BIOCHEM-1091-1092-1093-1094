@@ -177,5 +177,24 @@ if device_ready:
     print("==================================================================")
     print("[SUCCESS] Data aggregation cycle completed cleanly. Code structures ready for Git tracking.")
 
+    # Add this code block at the final step of your main() function in main.py:
+
+from ai_diagnostic_app import AIDiagnosticSupportApp
+
+# ... [Previous Scanning, Warping, Filtering, and CUDA Operations Complete] ...
+
+print("[INFO] Launching automated AI Diagnostic Support application layers...")
+ai_app = AIDiagnosticSupportApp(docs_dir="docs", reports_dir="reports")
+
+# Step 1: Ingest written records and reference handbooks
+ai_app.ingest_documentation_vault()
+
+# Step 2: Map processed data arrays straight into the evaluation rules
+evaluation_profile = ai_app.process_and_evaluate_metrics(metrics)
+
+# Step 3: Export output files cleanly into the new reports directory
+generated_report_path = ai_app.export_diagnosis_support_file(evaluation_profile)
+print(f"[SUCCESS] Pipeline loop unified. Local archive log closed at: {generated_report_path}")
+
 if __name__ == "__main__":
     main()
