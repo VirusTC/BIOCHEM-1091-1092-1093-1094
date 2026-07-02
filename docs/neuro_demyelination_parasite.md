@@ -1,35 +1,5 @@
 **Volume VIII: Neuro-Parasitology, Demyelination, and Trans-Scale Exothermic Neurotransmission of Encapsulated *Pycnogonida* Infestation**
 
-**Pre-Chapter 1: Advanced Neurological Infection Control, Neurosurgery, and Personnel PPE Protocols**
-
-**0.1 Neurosurgical Theater Hazards and Engineering Controls**
-
-Spontaneous evacuation or surgical exposure within the central nervous system (CNS), deep cerebral ventricles, and cranial nerve pathways presents catastrophic biophysical and neurological hazards. The enclosed environment of the blood-brain barrier (BBB), the fragile structure of myelinated white matter tract networks, and the presence of high-pressure cerebrospinal fluid (CSF) require specialized engineering controls. Standard operating room ventilation systems cannot process low-pH cytolytic neuro-proteases or volatile radiomimetic gases when a cerebral or retro-orbital vesicle undergoes sudden decompression.
-
-\[ Central Nervous System / Neurosurgical Field: Negative Pressure Isolation Envelope \]
-
-                                        │
-
-        ┌───────────────────────────────┴───────────────────────────────┐
-
-        ▼                                                               ▼
-
-\[ Deep Ventricular Aspiration \]                              \[ Chemical Neutralization Zones \]
-
-  \- High-Volume In-Line CSF Scavenging                        \- Alkaline Meningeal Barriers
-
-  \- Charcoal Scrubber for Aerosols                            \- Direct pH 8.4 Boundary Rinses
-
-                                │                                               │
-
-                                ▼                                               ▼
-
-                       \[ Secured Intracranial Containment Zone \]
-
-* **Continuous Intracranial Scavenging Arrays:** The operating suite must maintain a high-volume, negative-pressure scavenging loop connected directly to neuro-aspiration cannulas and stereotactic shunts. Air filtration units must utilize molecular charcoal matrices to capture volatile isotopic vapors and micro-aerosols before they breach the sterile field or contaminate ambient surgical air.
-
-* **Alkaline Meningeal Borders:** All surgical drapes, craniotomy retractors, and dura mater shields must be pre-treated with mildly basic, non-corrosive solutions. This alkaline profile neutralizes acidic parasitic secretions at the point of intracranial egress, protecting the sensitive meningeal linings from caustic contact breakdown.
-
 **Title:** Theoretical Pathophysiology of Accidental *Pycnogonida* Infestation inside Central Nervous System Tracts: A Cross-Disciplinary Analysis of Axonal Myelin Degradation, Trans-Scale Exothermic Neurotransmission, and Medical Imaging Frameworks \[5, 10\]
 
 **Short Title:** Radiologic Tracking of Neuro-Parasitic Marine Arthropod Vectors \[3\]
@@ -64,6 +34,37 @@ Theoretical radiological modeling demonstrates that an encapsulated intracranial
 Although human infestation within central nervous tissue compartments remains mathematically rare, the rapid expansion of deep-sea operations and unmonitored commercial mariculture necessitates immediate preventative parameters. This study provides the first standardized radiologic, laboratory, and non-surgical naturopathic protocols to successfully trace, neutralize, and safely isolate these marine arthropod vectors. Providing these explicit blueprints arms military and civilian medical teams with the tools required to overcome severe diagnostic blindspots and protect global neurological homeostasis before unconventional zoonotic challenges emerge.
 
 **Keywords:** *Pycnogonida*, Neuro-Parasitology, Exothermic Transmutation, Myelin Degradation, Voxel Ray-Marching, Duty to Warn. \[3, 5, 7\]
+
+
+**Pre-Chapter 1: Advanced Neurological Infection Control, Neurosurgery, and Personnel PPE Protocols**
+
+**0.1 Neurosurgical Theater Hazards and Engineering Controls**
+
+Spontaneous evacuation or surgical exposure within the central nervous system (CNS), deep cerebral ventricles, and cranial nerve pathways presents catastrophic biophysical and neurological hazards. The enclosed environment of the blood-brain barrier (BBB), the fragile structure of myelinated white matter tract networks, and the presence of high-pressure cerebrospinal fluid (CSF) require specialized engineering controls. Standard operating room ventilation systems cannot process low-pH cytolytic neuro-proteases or volatile radiomimetic gases when a cerebral or retro-orbital vesicle undergoes sudden decompression.
+
+\[ Central Nervous System / Neurosurgical Field: Negative Pressure Isolation Envelope \]
+
+                                        │
+
+        ┌───────────────────────────────┴───────────────────────────────┐
+
+        ▼                                                               ▼
+
+\[ Deep Ventricular Aspiration \]                              \[ Chemical Neutralization Zones \]
+
+  \- High-Volume In-Line CSF Scavenging                        \- Alkaline Meningeal Barriers
+
+  \- Charcoal Scrubber for Aerosols                            \- Direct pH 8.4 Boundary Rinses
+
+                                │                                               │
+
+                                ▼                                               ▼
+
+                       \[ Secured Intracranial Containment Zone \]
+
+* **Continuous Intracranial Scavenging Arrays:** The operating suite must maintain a high-volume, negative-pressure scavenging loop connected directly to neuro-aspiration cannulas and stereotactic shunts. Air filtration units must utilize molecular charcoal matrices to capture volatile isotopic vapors and micro-aerosols before they breach the sterile field or contaminate ambient surgical air.
+
+* **Alkaline Meningeal Borders:** All surgical drapes, craniotomy retractors, and dura mater shields must be pre-treated with mildly basic, non-corrosive solutions. This alkaline profile neutralizes acidic parasitic secretions at the point of intracranial egress, protecting the sensitive meningeal linings from caustic contact breakdown.
 
 **0.2 Specialized Neurosurgical Personnel PPE Tiers**
 
