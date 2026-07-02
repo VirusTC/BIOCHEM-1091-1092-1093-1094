@@ -1,3 +1,8 @@
+"""
+Metastasis-Tracker-AI: Parallelized Anisotropic Spatial Filtering Engine
+Filename: src/anisotropic_filter.py
+"""
+
 import numpy as np
 
 try:
@@ -8,76 +13,127 @@ try:
 except ImportError:
     pycuda_available = False
 
-cuda_code = """
-__global__ void anisotropic_filter_3d(float* input, float* output, int width, int height, int depth, float lambda_val, float k_val) {
-    int x = blockIdx.x * blockDim.x + threadIdx.x;
-    int y = blockIdx.y * blockDim.y + threadIdx.y;
-    int z = blockIdx.z * blockDim.z + threadIdx.z;
+cuda_kernel_source = """
+__global__ void anisotropic_diffusion_3d(
+    const float* __restrict__ input_grid, 
+    float* __restrict__ output_grid, 
+    const int width, const int height, const int depth, 
+    const float lambda_val, const float k_val) 
+{
+    const int x = blockIdx.x * blockDim.x + threadIdx.x;
+    const int y = blockIdx.y * blockDim.y + threadIdx.y;
+    const int z = blockIdx.z * blockDim.z + threadIdx.z;
     
     if (x >= width || y >= height || z >= depth) return;
     
-    int idx = z * (width * height) + y * width + x;
-    float val = input[idx];
+    const int slice_stride = width * height;
+    const int idx = z * slice_stride + y * width + x;
+    const float val = input_grid[idx];
     
-    float n = (y > 0) ? input[idx - width] : val;
-    float s = (y < height - 1) ? input[idx + width] : val;
-    float e = (x < width - 1) ? input[idx + 1] : val;
-    float w = (x > 0) ? input[idx - 1] : val;
-    float u = (z < depth - 1) ? input[idx + (width * height)] : val;
-    float d = (z > 0) ? input[idx - (width * height)] : val;
+    const float n = (y > 0)          ? input_grid[idx - width]        : val;
+    const float s = (y < height - 1) ? input_grid[idx + width]        : val;
+    const float e = (x < width - 1)  ? input_grid[idx + 1]            : val;
+    const float w = (x > 0)          ? input_grid[idx - 1]            : val;
+    const float u = (z < depth - 1)  ? input_grid[idx + slice_stride] : val;
+    const float d = (z > 0)          ? input_grid[idx - slice_stride] : val;
     
-    float dn = n - val;
-    float ds = s - val;
-    float de = e - val;
-    float dw = w - val;
-    float du = u - val;
-    float dd = d - val;
+    const float grad_n = n - val;
+    const float grad_s = s - val;
+    const float grad_e = e - val;
+    const float grad_w = w - val;
+    const float grad_u = u - val;
+    const float grad_d = d - val;
     
-    float cn = expf(-(dn * dn) / (k_val * k_val));
-    float cs = expf(-(ds * ds) / (k_val * k_val));
-    float ce = expf(-(de * de) / (k_val * k_val));
-    float cw = expf(-(dw * dw) / (k_val * k_val));
-    float cu = expf(-(du * du) / (k_val * k_val));
-    float cd = expf(-(dd * dd) / (k_val * k_val));
+    const float k_sq = k_val * k_val;
+    const float c_n = __expf(-(grad_n * grad_n) / k_sq);
+    const float c_s = __expf(-(grad_s * grad_s) / k_sq);
+    const float c_e = __expf(-(grad_e * grad_e) / k_sq);
+    const float c_w = __expf(-(grad_w * grad_w) / k_sq);
+    const float c_u = __expf(-(grad_u * grad_u) / k_sq);
+    const float c_d = __expf(-(grad_d * grad_d) / k_sq);
     
-    output[idx] = val + lambda_val * (cn * dn + cs * ds + ce * de + cw * dw + cu * du + cd * dd);
+    output_grid[idx] = val + lambda_val * (
+        c_n * grad_n + c_s * grad_s + 
+        c_e * grad_e + c_w * grad_w + 
+        c_u * grad_u + c_d * grad_d
+    );
 }
 """
 
 class AnisotropicFilterEngine:
-    def __init__(self, shape: tuple):
-        self.shape = shape
-        self.program = SourceModule(cuda_code) if pycuda_available else None
-        self.kernel = self.program.get_function("anisotropic_filter_3d") if pycuda_available else None
+    def __init__(self, volume_shape: tuple):
+        """Initializes the parallelized 3D mathematical filtering engine."""
+        self.shape = volume_shape
+        self.depth, self.height, self.width = volume_shape
+        
+        if pycuda_available:
+            self.mod = SourceModule(cuda_kernel_source)
+            self.cuda_kernel = self.mod.get_function("anisotropic_diffusion_3d")
+        else:
+            self.cuda_kernel = None
 
-    def execute_filter(self, h_input: np.ndarray, iterations: int = 3, lambda_val: float = 0.15, k_val: float = 20.0) -> np.ndarray:
-        if not pycuda_available or self.kernel is None:
-            return h_input
+    def execute_filter(self, input_volume: np.ndarray, iterations: int = 3, lambda_val: float = 0.15, k_val: float = 25.0) -> np.ndarray:
+        """Runs the edge-preserving smoothing pass over the input 3D matrix volume."""
+        if self.cuda_kernel:
+            float_input = input_volume.astype(np.float32)
+            h_output = np.zeros_like(float_input)
+            d_input = cuda.mem_alloc(float_input.nbytes)
+            d_output = cuda.mem_alloc(float_input.nbytes)
             
-        depth, height, width = self.shape
-        h_input = h_input.astype(np.float32)
-        h_output = np.zeros_like(h_input)
-        
-        d_input = cuda.mem_alloc(h_input.nbytes)
-        d_output = cuda.mem_alloc(h_output.nbytes)
-        
-        block_dims = (8, 8, 4)
-        grid_dims = (
-            int(np.ceil(width / block_dims[0])),
-            int(np.ceil(height / block_dims[1])),
-            int(np.ceil(depth / block_dims[2]))
-        )
-        
-        cuda.memcpy_htod(d_input, h_input)
+            cuda.memcpy_htod(d_input, float_input)
+            block_dims = (8, 8, 4)
+            grid_dims = (
+                int(np.ceil(self.width / block_dims[0])),
+                int(np.ceil(self.height / block_dims[1])),
+                int(np.ceil(self.depth / block_dims[2]))
+            )
+            
+            for _ in range(iterations):
+                self.cuda_kernel(
+                    d_input, d_output,
+                    np.int32(self.width), np.int32(self.height), np.int32(self.depth),
+                    np.float32(lambda_val), np.float32(k_val),
+                    block=block_dims, grid=grid_dims
+                )
+                cuda.memcpy_dtod(d_input, d_output, float_input.nbytes)
+                
+            cuda.memcpy_dtoh(h_output, d_output)
+            d_input.free()
+            d_output.free()
+            return h_output
+            
+        return self._execute_cpu_vectorized(input_volume, iterations, lambda_val, k_val)
+
+    def _execute_cpu_vectorized(self, input_volume: np.ndarray, iterations: int, lambda_val: float, k_val: float) -> np.ndarray:
+        """Vectorized execution fallback utilizing high-speed NumPy slice metrics."""
+        current_volume = input_volume.astype(np.float32)
+        k_sq = k_val * k_val
         
         for _ in range(iterations):
-            self.kernel(
-                d_input, d_output,
-                np.int32(width), np.int32(height), np.int32(depth),
-                np.float32(lambda_val), np.float32(k_val),
-                block=block_dims, grid=grid_dims
-            )
-            cuda.memcpy_dtod(d_input, d_output, h_input.nbytes)
+            grad_n = np.zeros_like(current_volume)
+            grad_s = np.zeros_like(current_volume)
+            grad_e = np.zeros_like(current_volume)
+            grad_w = np.zeros_like(current_volume)
+            grad_u = np.zeros_like(current_volume)
+            grad_d = np.zeros_like(current_volume)
             
-        cuda.memcpy_dtoh(h_output, d_output)
-        return h_output
+            grad_n[:, 1:, :] = current_volume[:, :-1, :] - current_volume[:, 1:, :]
+            grad_s[:, :-1, :] = current_volume[:, 1:, :] - current_volume[:, :-1, :]
+            grad_e[:, :, :-1] = current_volume[:, :, 1:] - current_volume[:, :, :-1]
+            grad_w[:, :, 1:] = current_volume[:, :, :-1] - current_volume[:, :, 1:]
+            grad_u[:-1, :, :] = current_volume[1:, :, :] - current_volume[:-1, :, :]
+            grad_d[1:, :, :] = current_volume[:-1, :, :] - current_volume[1:, :, :]
+            
+            c_n = np.exp(-(grad_n * grad_n) / k_sq)
+            c_s = np.exp(-(grad_s * grad_s) / k_sq)
+            c_e = np.exp(-(grad_e * grad_e) / k_sq)
+            c_w = np.exp(-(grad_w * grad_w) / k_sq)
+            c_u = np.exp(-(grad_u * grad_u) / k_sq)
+            c_d = np.exp(-(grad_d * grad_d) / k_sq)
+            
+            current_volume += lambda_val * (
+                c_n * grad_n + c_s * grad_s + 
+                c_e * grad_e + c_w * grad_w + 
+                c_u * grad_u + c_d * grad_d
+            )
+        return current_volume
