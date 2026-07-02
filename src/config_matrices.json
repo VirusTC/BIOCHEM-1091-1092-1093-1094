@@ -1,0 +1,44 @@
+{
+  "scanner_profiles": {
+    "carestream_xray_default": {
+      "hardware_vendor": "Carestream Health / Kodak",
+      "modality": "CR / DX (Digital Radiography)",
+      "calibration_matrices": {
+        "affine_translation": [1.025, -0.985, 0.0],
+        "spatial_scaling": [1.0, 1.0, 1.0],
+        "hounsfield_offset": -1024.0
+      },
+      "beam_filter_settings": {
+        "copper_filtration_mm": 0.2,
+        "anode_target_angle_deg": 15.0
+      }
+    },
+    "ge_mri_3t_default": {
+      "hardware_vendor": "GE Medical Systems",
+      "modality": "MR (Magnetic Resonance)",
+      "magnetic_field_strength_tesla": 3.0,
+      "calibration_matrices": {
+        "t1_relaxation_scaling": 1.045,
+        "t2_dixon_phase_offset": [0.0, 0.0, 0.2618],
+        "adc_normalization_multiplier": 1.000000e-06
+      },
+      "pulse_sequence_profiles": {
+        "spair_fat_sat": {
+          "repetition_time_ms": 3500.0,
+          "echo_time_ms": 85.0,
+          "inversion_time_ms": 160.0
+        },
+        "stir_fluid_suppression": {
+          "repetition_time_ms": 4200.0,
+          "echo_time_ms": 60.0,
+          "inversion_time_ms": 220.0
+        }
+      }
+    }
+  },
+  "pipeline_global_constraints": {
+    "target_voxel_resolution_mm": [0.5, 0.5, 1.0],
+    "chitin_attenuation_bounds": [140.0, 690.0],
+    "restricted_adc_threshold": 0.7
+  }
+}
