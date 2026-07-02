@@ -1,35 +1,5 @@
 **Volume VII: Cardiopulmonary, Vascular Homeostasis, and Comprehensive Systemic Infiltration of Encapsulated *Pycnogonida* Infestation**
 
-**Pre-Chapter 1: Advanced Cardiopulmonary Infection Control, Surgery, and Personnel PPE Protocols**
-
-**0.1 Cardiopulmonary Surgical Theater Hazards and Engineering Controls**
-
-Spontaneous evacuation or surgical exposure within the thoracic cavity, central vasculature, and pulmonary networks presents the highest anatomical and kinetic hazards. The high-volume blood flow of the chambers of the heart, the negative-pressure dynamics of the pleural space, and the presence of highly pressurized respiratory gases require specialized engineering controls. Standard operating room ventilation systems cannot process the low-pH cytolytic digestive enzymes or volatile radiomimetic gases when an intravascular or intracardiac vesicle decompresses.
-
-\[ Thoracic / Cardiopulmonary Field: Negative Pressure Isolation Envelope \]
-
-                                │
-
-        ┌───────────────────────┴───────────────────────┐
-
-        ▼                                               ▼
-
-\[ Central Airway Scavenging \]                \[ Chemical Neutralization Zones \]
-
-  \- High-Volume In-Line Suction                \- Alkaline Pericardial Barriers
-
-  \- Charcoal Scrubber for Aerosols             \- Direct pH 8.4 Boundary Rinses
-
-                               │                        │
-
-                               ▼                        ▼
-
-               \[ Secured Mediastinal Containment Zone \]
-
-* **Continuous Mediastinal Scavenging Arrays:** The operating suite must maintain a high-volume, negative-pressure scavenging loop connected directly to surgical aspiration cannulas and endoscopes. Air filtration units must utilize molecular charcoal matrices to capture volatile isotopic vapors and methane-heavy organic gases before they breach the sterile field.
-
-* **Alkaline Pericardial Borders:** All surgical drapes, retractors, and loops must be pre-treated with mildly basic, non-corrosive solutions. This alkaline profile neutralizes acidic parasitic secretions at the point of visceral egress, protecting the sensitive pericardial lining from caustic contact breakdown.
-
 **Title:** Theoretical Pathophysiology of Accidental *Pycnogonida* Infestation inside Central Cardiopulmonary Networks: A Cross-Disciplinary Analysis of Intravascular Stromal Encapsulation, Systemic Vascular Transit, and the Grand Unified Tracking Interconnect \[site:edu, site:mil\]
 
 **Short Title:** Radiologic Tracking of Cardiopulmonary Marine Arthropod Vectors \[site:gov\]
@@ -64,6 +34,37 @@ Theoretical radiological modeling demonstrates that an encapsulated cardiopulmon
 Although human infestation within central vascular tissue compartments remains mathematically rare, the rapid expansion of deep-sea operations and unmonitored commercial mariculture necessitates immediate preventative parameters. This study provides the first standardized radiologic, laboratory, and non-surgical naturopathic protocols to successfully trace, neutralize, and safely isolate these central thoracic networks. Providing these explicit blueprints arms military and civilian medical teams with the tools required to overcome severe diagnostic blindspots and protect global hemodynamic homeostasis before unconventional zoonotic challenges emerge.
 
 **Keywords:** *Pycnogonida*, Cardiopulmonary Parasitology, Grand Unified Interconnect, Trauma Fluid Dynamics, Voxel Ray-Marching, Duty to Warn. \[site:gov, site:edu\]
+
+
+**Pre-Chapter 1: Advanced Cardiopulmonary Infection Control, Surgery, and Personnel PPE Protocols**
+
+**0.1 Cardiopulmonary Surgical Theater Hazards and Engineering Controls**
+
+Spontaneous evacuation or surgical exposure within the thoracic cavity, central vasculature, and pulmonary networks presents the highest anatomical and kinetic hazards. The high-volume blood flow of the chambers of the heart, the negative-pressure dynamics of the pleural space, and the presence of highly pressurized respiratory gases require specialized engineering controls. Standard operating room ventilation systems cannot process the low-pH cytolytic digestive enzymes or volatile radiomimetic gases when an intravascular or intracardiac vesicle decompresses.
+
+\[ Thoracic / Cardiopulmonary Field: Negative Pressure Isolation Envelope \]
+
+                                │
+
+        ┌───────────────────────┴───────────────────────┐
+
+        ▼                                               ▼
+
+\[ Central Airway Scavenging \]                \[ Chemical Neutralization Zones \]
+
+  \- High-Volume In-Line Suction                \- Alkaline Pericardial Barriers
+
+  \- Charcoal Scrubber for Aerosols             \- Direct pH 8.4 Boundary Rinses
+
+                               │                        │
+
+                               ▼                        ▼
+
+               \[ Secured Mediastinal Containment Zone \]
+
+* **Continuous Mediastinal Scavenging Arrays:** The operating suite must maintain a high-volume, negative-pressure scavenging loop connected directly to surgical aspiration cannulas and endoscopes. Air filtration units must utilize molecular charcoal matrices to capture volatile isotopic vapors and methane-heavy organic gases before they breach the sterile field.
+
+* **Alkaline Pericardial Borders:** All surgical drapes, retractors, and loops must be pre-treated with mildly basic, non-corrosive solutions. This alkaline profile neutralizes acidic parasitic secretions at the point of visceral egress, protecting the sensitive pericardial lining from caustic contact breakdown.
 
 **0.2 Specialized Cardiopulmonary Personnel PPE Tiers**
 

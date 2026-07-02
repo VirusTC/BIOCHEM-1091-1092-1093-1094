@@ -1,11 +1,5 @@
 **Volume III: Trans-Mammary and Maternal-Fetal Variations of Encapsulated *Pycnogonida* Infestation**
 
-**Pre-Chapter 1: Advanced Obstetrics and Mammary Infection Control, Surgery, and Personnel PPE Protocols**
-
-**0.1 Mammary Surgical Theater Hazards and Engineering Controls**
-
-Spontaneous evacuation or surgical exposure within the maternal-fetal or mammary architecture presents high anatomical hazards. The dense network of lactiferous ducts, glandular lobules, and rich thoracic vasculature requires specialized operating room engineering. Standard hospital ventilation cannot process low-pH cytolytic secretions or volatile radiomimetic gases within enclosed glandular tissue or open thoracic surgical fields.
-
 **Title:** Theoretical Pathophysiology of Accidental *Pycnogonida* Infestation inside Maternal Glandular Architecture: A Cross-Disciplinary Analysis of Trans-Mammary Tissue Encapsulation and Medical Imaging Frameworks \[site:edu, site:mil\]
 
 **Short Title:** Radiologic Tracking of Mammary Marine Arthropod Vectors \[site:gov\]
@@ -40,6 +34,12 @@ Theoretical radiological modeling demonstrates that an encapsulated mammary *Pyc
 Although human infestation within maternal glandular tissue compartments remains mathematically rare, the rapid expansion of deep-sea operations and unmonitored commercial mariculture necessitates immediate preventative parameters. This study provides the first standardized radiologic, laboratory, and non-surgical naturopathic protocols to successfully trace, neutralize, and safely isolate these marine arthropod vectors using oriented suction and deep photo-oxidation. Providing these explicit blueprints arms military and civilian medical teams with the tools required to overcome severe diagnostic blindspots and protect vulnerable maternal-infant populations before unconventional zoonotic challenges emerge.
 
 **Keywords:** *Pycnogonida*, Mammary Parasitology, Lactiferous Ducts, Trans-Mammary Shedding, Voxel Ray-Marching, Duty to Warn. \[site:gov, site:edu\]
+
+**Pre-Chapter 1: Advanced Obstetrics and Mammary Infection Control, Surgery, and Personnel PPE Protocols**
+
+**0.1 Mammary Surgical Theater Hazards and Engineering Controls**
+
+Spontaneous evacuation or surgical exposure within the maternal-fetal or mammary architecture presents high anatomical hazards. The dense network of lactiferous ducts, glandular lobules, and rich thoracic vasculature requires specialized operating room engineering. Standard hospital ventilation cannot process low-pH cytolytic secretions or volatile radiomimetic gases within enclosed glandular tissue or open thoracic surgical fields.
 
 \[ Mammary / Lactiferous Operating Field: Negative Pressure Isolation Loop \]
 

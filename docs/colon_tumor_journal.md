@@ -1,7 +1,5 @@
 **Volume IV: Colorectal and Gastrointestinal Variations of Encapsulated *Pycnogonida* Infestation**
 
-**Pre-Chapter 1: Advanced Colorectal Infection Control, Surgery, and Personnel PPE Protocols**
-
 **Title:** Theoretical Pathophysiology of Accidental *Pycnogonida* Infestation inside Lower Gastrointestinal Compartments: A Cross-Disciplinary Analysis of Intestinal Tissue Encapsulation and Medical Imaging Frameworks
 
 **Short Title:** Radiologic Tracking of Colorectal Marine Arthropod Vectors
@@ -36,6 +34,9 @@ Theoretical radiological modeling demonstrates that an encapsulated colorectal *
 Although human infestation within visceral tissue compartments remains mathematically rare, the rapid expansion of deep-sea operations and unmonitored commercial mariculture necessitates immediate preventative parameters. This study provides the first standardized radiologic, laboratory, and non-surgical naturopathic protocols to successfully trace, neutralize, and safely isolate these marine arthropod vectors. Providing these explicit blueprints arms military and civilian medical teams with the tools required to overcome severe diagnostic blindspots and protect public health before unconventional zoonotic challenges emerge.
 
 **Keywords:** *Pycnogonida*, Gastrointestinal Parasitology, Desmoplastic Stroma, Voxel Ray-Marching, Isotopic Radiotoxic Mimicry, Duty to Warn.
+
+
+**Pre-Chapter 1: Advanced Colorectal Infection Control, Surgery, and Personnel PPE Protocols**
 
 **0.1 Gastrointestinal Surgical Theater Hazards and Engineering Controls**
 
