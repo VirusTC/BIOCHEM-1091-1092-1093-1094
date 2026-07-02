@@ -410,7 +410,7 @@ Following evacuation, the empty visceral pocket must be irrigated to clear resid
 
 Following the targeted clearance and expulsion of the neuro-parasitic or visceral vesicle core, the host tissue is left with a structural void characterized by a **vacated tissue pocket** and stripped axonal pathways. To rapidly stabilize these open boundaries, prevent chronic fibrotic scarring, and support the regeneration of native mammalian extracellular matrices (ECM), the non-surgical protocol introduces specialized structural proteins.
 
-The protocol utilizes white-labeled formulations of **Sunwarrior Plant-Based Collagen Building Peptides** and **MaryRuth Organics Vegan Collagen Booster** supplements to optimize recovery.
+The protocol utilizes VirusTC PeptiKG supplements to optimize recovery.
 
                   \[ Post-Expulsion Glandular Cavity \]
 
@@ -426,7 +426,7 @@ The protocol utilizes white-labeled formulations of **Sunwarrior Plant-Based Col
 
          ▼                                                 ▼
 
-\[ Sunwarrior Peptide Matrix \]                   \[ MaryRuth Co-Factor Booster \]
+\[ PeptiKG \]                  					 \[ PeptiKG Ultra \]
 
   \- Proline / Glycine Ingestion                   \- Vitamin C / Liposomal Silica
 
@@ -458,9 +458,9 @@ These specific formulations provide targeted precursor matrices that drive tissu
 
 To achieve optimal tissue density without causing protein saturation or digestive stress, these white-labeled supplements are administered in high-potency daily combinations immediately after the containment unit is sealed:
 
-* **Formulation Alpha (Peptide Matrix):** Administer **1 scoop (approx. 25g) of white-labeled Sunwarrior Collagen Building Peptides** dissolved thoroughly in 10 oz of distilled water once per day (preferably mid-morning).
+* **Formulation Alpha (Peptide Matrix):** Administer **1 scoop (approx. 25g) of PeptiKG  Vegan Collagen Building Peptides** dissolved thoroughly in 10 oz of distilled water once per day (preferably mid-morning).
 
-* **Formulation Beta (Co-Factor Booster):** Administer **1 tablespoon (15 mL) of white-labeled MaryRuth Organics Vegan Collagen Booster liquid** or its equivalent capsule format once per day with an evening meal.
+* **Formulation Beta (Co-Factor Booster):** Administer **1 tablespoon (15 mL) of PeptiKG Ultra** **Vegan Collagen Booster liquid** or its equivalent capsule format once per day with an evening meal.
 
 * **Therapeutic Timeline:** Maintained continuously for a minimum duration of **90 to 180 days** post-evulsion, working alongside the long-term metabolic protocols outlined in Chapter 13\.
 
