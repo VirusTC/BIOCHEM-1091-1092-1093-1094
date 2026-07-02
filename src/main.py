@@ -83,7 +83,30 @@ def main():
     print("==================================================================")
     print("      METASTASIS-TRACKER-AI: MASTER 3D PIPELINE INITIALIZATION    ")
     print("==================================================================")
-    
+
+    # Add this code block inside your main() execution pool within main.py:
+
+from anisotropic_filter import AnisotropicFilterEngine
+
+# ... [Previous Ingestion and Warping Processes Complete] ...
+
+print("[INFO] Executing edge-preserving anisotropic spatial filtering...")
+filter_engine = AnisotropicFilterEngine(volume_shape)
+filtered_volume = filter_engine.execute_filter(
+    warped_volume, 
+    iterations=3, 
+    lambda_val=0.15, 
+    k_val=25.0
+)
+print("[SUCCESS] Spatial matrix noise scrubbed cleanly from 3D array grids.")
+
+# Allocate GPU pools using filtered arrays
+print("[INFO] Setting up PyCUDA parallel acceleration context blocks...")
+allocator = CUDAVoxelAllocator(volume_shape)
+device_ready = allocator.allocate_device_buffers()
+if device_ready:
+    allocator.transfer_to_device(filtered_volume)
+
     # 1. Load and parse external vendor scanner alignment configurations
     config = ConfigurationLoader("config_matrices.json")
     if not config.load_and_validate_matrices():
