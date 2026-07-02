@@ -616,6 +616,40 @@ This guide helps you manage your treatment smoothly. While this organism is not 
 
 * **Attend Follow-Up Imaging:** Schedule your follow-up MRI scans after a few days to confirm that your thoracic pathways have returned to a healthy state.
 
+**Patient Care Guide Update: Understanding Your Blood Purification Protocol**
+
+During this advanced phase of your cardiorespiratory treatment, your care team will connect your recovery loop to a specialized, external blood-purification system to actively wash and filter your blood. This process works safely outside your body to sweep away microscopic debris while your main vitamin and light therapies are active.
+
+\+--------------------------------------------------------------------------+
+
+|                 1\. SCALABLE MICROAGGREGATE FILTRATION                    |
+
+|   Your blood passes through a specialized 3, 5, or 7-layer filter array  |
+
+|   to catch and physically remove microscopic shell and lipid debris.     |
+
+\+--------------------------------------------------------------------------+
+
+                                     │
+
+                                     ▼
+
+\+--------------------------------------------------------------------------+
+
+|                    2\. HIGH-FLUX 254 NM UV-C PURIFICATION                 |
+
+|   The blood flows through a safe outer light chamber where clean UV-C    |
+
+|   light and ozone instantly neutralize any remaining viral complexes.    |
+
+\+--------------------------------------------------------------------------+
+
+* **Relax During the Cleanse:** Sit comfortably as the gentle, automated apheresis loop guides your blood through the multi-stage filter stack. This deep mechanical wash removes all left-behind particles and debris, preventing them from floating back into your vital organs.
+
+* **Trust the Automated Controls:** You may notice specialized lighting panels active on the machine. This is the **254 nm ultraviolet cleaning system** working alongside your core tracking apps to neutralize foreign elements in real time. The tracking software automatically updates the machine's internal optical settings to keep the flow perfectly smooth and uninterrupted.
+
+* **Maintain Your Bedside Space:** Keep your personal containment waste bin and your spray bottle of **Formula 409** positioned right next to your chair. Secure the container's lid tightly after any local cleaning steps to keep your room's air fresh, purified, and completely protected.
+
 **Volume VII Reference List**
 
 **Target Journal Format:** *Military Medicine* (AMSUS) / *The Journal of Thoracic and Cardiovascular Surgery*  
