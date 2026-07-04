@@ -1363,7 +1363,7 @@ Follow these steps precisely to manage your care at home.
 
 * **Schedule Your Follow-up MRI:** We will run quick, non-invasive imaging scans after a few days to watch the pocket shrink and ensure your tissue looks perfectly normal.
 
-# **References**
+# **References:**
 
 1. **Dietz L, Dömel JS, Leese F, et al.** Feeding ecology in sea spiders (Arthropoda: Pycnogonida): A review of food preferences and morphological correlates. *Front Zool*. 2018;15:7. **\[PMID: 29563962\]**  
    *Available at:* [https://pmc.ncbi.nlm.nih.gov/articles/PMC5856303/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5856303/)
@@ -1403,7 +1403,7 @@ All authors contributed to the theoretical conception, data acquisition, and dra
 
 The authors declare no competing interests. The 3D tracking repository and associated datasets mentioned in the methodology are available for institutional review upon request.
 
-# **Trusted Official Resources**
+# **Trusted Official Resources:**
 
 **Official Multi-Disciplinary Reference Matrix**
 
