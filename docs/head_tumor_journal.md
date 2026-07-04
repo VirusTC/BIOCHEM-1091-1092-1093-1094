@@ -940,7 +940,7 @@ Following your non-invasive endoscopic fiber optic extraction, your internal sin
 
 * **Distilled Water Intake:** Drink exactly **1 gallon of distilled water every day**. This continuous hydration helps your system flush out remaining chemical salts and cellular debris, keeping your internal pathways flat, clean, and perfectly clear.
 
-# **References:**
+# **Volume II Reference List:**
 
 1. **Dietz L, Dömel JS, Leese F, et al.** Feeding ecology in sea spiders (Arthropoda: Pycnogonida): A review of food preferences and morphological correlates. *Front Zool*. 2018;15:7. **\[PMID: 29563962\]**  
    *Available at:* [nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5856303/) \[site:gov\]
