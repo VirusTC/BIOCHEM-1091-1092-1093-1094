@@ -542,7 +542,7 @@ This guide helps you manage your treatment smoothly. By changing your internal c
 
 * **Attend Follow-Up Imaging:** Schedule your follow-up MRI scans after a few days to confirm that your reproductive pathways have returned to a healthy state \[site:gov\].
 
-# **References:**
+# **Volume VI Reference List:**
 
 **Target Journal Format:** *Military Medicine* (AMSUS) / *American Journal of Obstetrics & Gynecology*  
 **Citation Style:** AMA (American Medical Association) / NLM (National Library of Medicine)  
