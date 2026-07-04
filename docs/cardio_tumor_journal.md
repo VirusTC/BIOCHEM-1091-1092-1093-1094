@@ -356,13 +356,13 @@ Because open surgery within rich mesenteric and vascular fields risks breaching 
 
 * **Vitamin E (Mixed Tocopherols):** **1,200 IU daily** split into two uniform doses to disrupt the protective lipid mesh via peroxidation.
 
-* **Niacin (Vitamin B3):** **500 mg three (3) times per day** with meals for six (6) months to preserve the coenzyme NAD+ pool during active tissue remodeling.
+* **Acidum nicotinicum purum:** **500 mg three (3) times per day** with meals for six (6) months to preserve the coenzyme NAD+ pool during active tissue remodeling.
 
-* **Zinc:** **100 mg three (3) times per day** with meals for six (6) months to support structural tissue reconstruction.
+* **Chelated Zincum Gluconate:** **100 mg three (3) times per day** with meals for six (6) months to support structural tissue reconstruction.
 
-* **KureaSH (Naked Brand Creatine):** Administer **20 g daily** of pure micronized creatine monohydrate dissolved exclusively in distilled water for six (6) months to preserve intracellular ATP levels under cellular stress.
+* **Creatinum monohydricum:** Administer **20 g daily** of pure micronized Creatinum monohydricum dissolved exclusively in distilled water for six (6) months to preserve intracellular ATP levels under cellular stress.
 
-* **Turmeric:** **2,000 mg daily** split into two uniform doses for six (6) months to serve as a natural replication inhibitor.
+* **Rhizoma Curcumae longae:** **2,000 mg daily** split into two uniform doses for six (6) months to serve as a natural replication inhibitor.
 
 **12.8 Advanced Extracorporeal Photopheresis and UV-C Apheresis Integration**
 
@@ -787,13 +787,13 @@ By leveraging the **Lipidos ℞ Plant-Based Human Lipid Capsule Matrix**, the sy
 
 * **Specialized Multi-Vitamin Additions:**
 
-  * \[ \] **AlnayaSN ℞ (Niacin Core):** \\(500 \\text{ mg}\\) (Preserves the cellular NAD+ pool during active remodeling) (cardio\_tum... p. 37).
+  * \[ \] **AlnayaSN ℞ (Acidum nicotinicum purum):** \\(500 \\text{ mg}\\) (Preserves the cellular NAD+ pool during active remodeling) (cardio\_tum... p. 37).
 
-  * \[ \] **TSinKX ℞\++ (Zinc Complex):** \\(100 \\text{ mg}\\) (Supports direct structural tissue and epithelial boundary repair) (cardio\_tum... p. 37).
+  * \[ \] **TSinKX ℞\++ (Chelated Zincum Gluconate):** \\(100 \\text{ mg}\\) (Supports direct structural tissue and epithelial boundary repair) (cardio\_tum... p. 37).
 
   * \[ \] **Vitamin C (Ascorbic Acid):** \_\_\_\_ grams (Titrated from baseline \\(25\\text{g}\\) to maximum maintenance \\(75\\text{g}\\)) (cardio\_tum... p. 37).
 
-  * \[ \] **KureaSH ℞ (Pure Micronized Creatine):** \\(20 \\text{ g}\\) (Dissolved exclusively in distilled water to maintain intracellular ATP) (cardio\_tum... p. 37).
+  * \[ \] **KureaSH ℞ (Creatinum monohydricum):** \\(20 \\text{ g}\\) (Dissolved exclusively in distilled water to maintain intracellular ATP) (cardio\_tum... p. 37).
 
 * **Total 24-Hour Hydration Output Tracking:**
 

@@ -326,13 +326,13 @@ Because open surgery within rich mesenteric and vascular fields risks breaching 
 
 * **Vitamin E (Mixed Tocopherols):** **1,200 IU daily** split into two uniform doses to disrupt the protective lipid mesh via peroxidation.
 
-* **Niacin (Vitamin B3):** **500 mg three (3) times per day** with meals for six (6) months to preserve the coenzyme NAD+ pool during active tissue remodeling.
+* **Acidum nicotinicum:** **500 mg three (3) times per day** with meals for six (6) months to preserve the coenzyme NAD+ pool during active tissue remodeling.
 
-* **Zinc:** **100 mg three (3) times per day** with meals for six (6) months to support structural tissue reconstruction.
+* **Chellated Zincum gluconicum:** **100 mg three (3) times per day** with meals for six (6) months to support structural tissue reconstruction.
 
-* **KureaSH (Naked Brand Creatine):** Administer **20 g daily** of pure micronized creatine monohydrate dissolved exclusively in distilled water for six (6) months to preserve intracellular ATP levels under cellular stress.
+* **Creatinum monohydricum:** Administer **20 g daily** of pure micronized Creatinum monohydricum dissolved exclusively in distilled water for six (6) months to preserve intracellular ATP levels under cellular stress.
 
-* **Turmeric:** **2,000 mg daily** split into two uniform doses for six (6) months to serve as a natural replication inhibitor.
+* **Curcuma longa:** **2,000 mg daily** split into two uniform doses for six (6) months to serve as a natural replication inhibitor.
 
 # **14\. Bedside Containment Protocols and Post-Expulsion Management**
 

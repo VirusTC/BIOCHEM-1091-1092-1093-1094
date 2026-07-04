@@ -550,21 +550,21 @@ To expand the baseline therapeutic range, the protocol integrates standard metab
 
 **Foundational Prescriptions**
 
-* **Niacin (Vitamin B3):** Administer **500 mg three (3) times per day** with meals for a strict duration of six (6) months. This sustains the coenzyme nicotinamide adenine dinucleotide (NAD+) pool, preventing cellular depletion during active tissue remodeling.
+* **Acidum nicotinicum:** Administer **500 mg three (3) times per day** with meals for a strict duration of six (6) months. This sustains the coenzyme nicotinamide adenine dinucleotide (NAD+) pool, preventing cellular depletion during active tissue remodeling.
 
-* **Zinc:** Administer **100 mg three (3) times per day** with meals for six (6) months. Zinc operates as a foundational structural component for metalloenzymes and transcription factors involved in tissue reconstruction.
+* **Chellated Zincum gluconicum:** Administer **100 mg three (3) times per day** with meals for six (6) months. Zinc operates as a foundational structural component for metalloenzymes and transcription factors involved in tissue reconstruction.
 
-* **KureaSH (Naked Brand Creatine):** Administer **20 g daily** of pure micronized creatine monohydrate dissolved exclusively in distilled water for six (6) months. Creatine acts as an immediate energy buffer, donating phosphate groups to preserve intracellular ATP levels in environments compromised by cellular stress.
+* **Creatinum monohydricum:** Administer **20 g daily** of pure micronized Creatinum monohydricum dissolved exclusively in distilled water for six (6) months. Creatinum monohydricum acts as an immediate energy buffer, donating phosphate groups to preserve intracellular ATP levels in environments compromised by cellular stress.
 
-* **Beta Carotene:** Administer **300 mg daily** to stabilize lipid membranes against oxidative degradation.
+* **Beta-carotenum:** Administer **300 mg daily** to stabilize lipid membranes against oxidative degradation.
 
-* **Magnesium:** Administer **300 mg daily** with a meal. Magnesium acts as a critical limiting reagent required for cellular energetic reactions and proper compositional development of epidermal structures. \[[1](https://nakednutrition.com/products/creatine-monohydrate-powder), [2](https://www.amazon.com/Pure-Creatine-Monohydrate-Artificial-Ingredients/dp/B0B9YMNYWK)\]
+* **Magnesia:** Administer **300 mg daily** with a meal. Magnesium acts as a critical limiting reagent required for cellular energetic reactions and proper compositional development of epidermal structures. \[[1](https://nakednutrition.com/products/creatine-monohydrate-powder), [2](https://www.amazon.com/Pure-Creatine-Monohydrate-Artificial-Ingredients/dp/B0B9YMNYWK)\]
 
 **Naturopathy Prescriptions**
 
-* **Turmeric:** Administer **2,000 mg daily**, split into two uniform doses (at wake and before sleep) for six (6) months. Curcuminoids function as natural integrase and replication inhibitors, preventing secondary viral assembly within the tissue pocket.
+* **Curcuma longa:** Administer **2,000 mg daily**, split into two uniform doses (at wake and before sleep) for six (6) months. Curcuminoids function as natural integrase and replication inhibitors, preventing secondary viral assembly within the tissue pocket.
 
-* **Nutmeg:** Administer **10 g daily** mixed thoroughly with distilled water for six (6) months. Active volatile elements serve to inhibit foreign integration pathways while shifting the localized pH away from an acidic state.
+* **Myristica fragrans:** Administer **10 g daily** mixed thoroughly with distilled water for six (6) months. Active volatile elements serve to inhibit foreign integration pathways while shifting the localized pH away from an acidic state.
 
 **13.4 Clinical Monitoring, pH Correction, and Biomarker Tracking**
 
@@ -936,7 +936,7 @@ Following your non-invasive endoscopic fiber optic extraction, your internal sin
 
 * **MusKT:** Take **1,000 mg daily** to support adjacent facial muscle recovery.
 
-* **KureaSH (Naked Brand Creatine):** Take **5,000 mg daily** dissolved in distilled water to preserve your cells' energy reserves during active healing.
+* **KureaSH:** Take **5,000 mg daily** dissolved in distilled water to preserve your cells' energy reserves during active healing.
 
 * **Distilled Water Intake:** Drink exactly **1 gallon of distilled water every day**. This continuous hydration helps your system flush out remaining chemical salts and cellular debris, keeping your internal pathways flat, clean, and perfectly clear.
 
