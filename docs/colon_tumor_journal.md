@@ -514,7 +514,7 @@ This guide helps you manage your treatment smoothly. While this organism is not 
 
 * **Attend Follow-Up Imaging:** Schedule your follow-up MRI scans after a few days to confirm that your visceral pathways have returned to a healthy state.
 
-# **References:**
+# **Volume IV Reference List:**
 
 **Dietz L, Dömel JS, Leese F, et al.** Feeding ecology in sea spiders (Arthropoda: Pycnogonida): A review of food preferences and morphological correlates. *Front Zool*. 2018;15:7. **\[PMID: 29563962\]**  
 *Available at:* [nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5856303/) \[site:gov\]
