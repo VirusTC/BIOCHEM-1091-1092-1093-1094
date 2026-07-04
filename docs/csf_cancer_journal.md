@@ -1,4 +1,4 @@
-**Volume IV: The Urogenital Lipid-Capsule Scaffolding, Prostatic/Skene's Gland Homeostasis, and Central Nervous System Hydrodynamic Interconnect**
+**Volume IX: The Urogenital Lipid-Capsule Scaffolding, Prostatic/Skene's Gland Homeostasis, and Central Nervous System Hydrodynamic Interconnect**
 
 **Title:** Theoretical Pathophysiology of Accidental *Pycnogonida* Infestation inside Pelvic Glandular Frameworks: A Cross-Disciplinary Analysis of Prostatic and Skene's Gland Stromal Encapsulation, Cerebrospinal Fluid Hydrodynamic Interconnect, and Non-Invasive Voxel Tracking \[site:edu, site:mil\]
 
@@ -639,7 +639,7 @@ This guide helps you manage your treatment smoothly. While this organism is not 
 
 ---
 
-**Volume IV Reference List**
+**Volume IX Reference List**
 
 **Target Journal Format:** *Military Medicine* (AMSUS) / *The Journal of Urology*  
 **Citation Style:** AMA (American Medical Association) / NLM (National Library of Medicine)  

@@ -634,7 +634,7 @@ This guide helps you manage your treatment smoothly. While this organism is not 
 
 * **Attend Follow-Up Imaging:** Schedule your follow-up MRI scans after a few days to confirm that your intracranial pathways have returned to a healthy state.
 
-# **References:**
+# **Volume VIII Reference List:**
 
 **Target Journal Format:** *Military Medicine* (AMSUS) / *The Journal of Comparative Neurology*  
 **Citation Style:** AMA (American Medical Association) / NLM (National Library of Medicine)  
