@@ -18,7 +18,7 @@
 
 **Corresponding Author:**\
 Dr. Correo Hofstad\
-drhofstad@virustreatmentcenters.com
+drhofstad@u.washington.edu
 
 **Abstract**
 
@@ -38,12 +38,12 @@ While human infestation remains statistically rare, the expansion of deep-sea op
 
 # Metastasis-Tracker-AI & Tumor-Virus-Vesicle Documentation Portal
 
-## 📊 Clinical Objective: Non-Surgical Parasitic Neutralization
+## Clinical Objective: Non-Surgical Parasitic Neutralization
 This repository serves as the definitive open-source repository tracking the volumetric expansion, coordinate registration, and non-surgical extraction of encapsulated *Pycnogonida* (marine arthropod) vesicles within mammalian somatic systems. 
 
 **Core Therapeutic Thesis:** No surgical intervention. Expulsion is driven entirely through high-potency naturopathic oncology prescriptions, leveraging localized biochemical environmental shifts to force vector degradation.
 
-## 📷 Photographic & Diagnostic Media Index
+## Photographic & Diagnostic Media Index
 The folders within this repository contain high-resolution medical imagery, x-rays, MRIs, and video sequences mapping the boundary interfaces of the lesion. When deploying the Carestream/GE-MRI 3D ray-marching software, configure your voxel inputs to reference the following media categories:
 
 1. **/IMAGES/X-RAY_STRUCTURAL_DENSITY/**
